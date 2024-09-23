@@ -33,4 +33,4 @@ You only need a web browser to run this project. Ensure you have one of the foll
 
 1. Clone the repository to your local machine using the following command:
    ```sh
-   git clone https://github.com/munvar021/Wikipedia-Search-Application.git
+   git clone https://github.com/vishnuvardhanpikkili/Wikipedia-Search-Application.git
